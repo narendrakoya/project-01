@@ -1,0 +1,54 @@
+[33mcommit 8dc9fca660700c02ab359afdff019400caf575f9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster-1[m[33m)[m
+Merge: 6afd7b7 2c76e96
+Author: KNaren <narendra.koya16@outlook.com>
+Date:   Wed Dec 13 15:37:39 2017 +0530
+
+    merge files
+
+[33mcommit 6afd7b72379eac8ed17c0b70fbc34ad4bbf30dba[m
+Author: KNaren <narendra.koya16@outlook.com>
+Date:   Wed Dec 13 15:35:12 2017 +0530
+
+    tets m2
+
+[33mcommit 2c76e96f87fcfaa1315e2b83879db6351316ca14[m[33m ([m[1;32mmaster[m[33m)[m
+Author: KNaren <narendra.koya16@outlook.com>
+Date:   Wed Dec 13 15:34:18 2017 +0530
+
+    test modify
+
+[33mcommit fd19cc894bcb1add64fe9aba18c51bc03dff2e49[m[33m ([m[1;32mmaster-2[m[33m)[m
+Author: KNaren <narendra.koya16@outlook.com>
+Date:   Wed Dec 13 15:27:28 2017 +0530
+
+    new modifyied file
+
+[33mcommit 7454bd9318c1d2efe06da9ba3e5f57df27df66a6[m
+Author: KNaren <narendra.koya16@outlook.com>
+Date:   Wed Dec 13 15:26:00 2017 +0530
+
+    testfile
+
+[33mcommit ff15849ce1e463d3eadffebb6919579c08c18a11[m
+Author: KNaren <narendra.koya16@outlook.com>
+Date:   Wed Dec 13 15:24:50 2017 +0530
+
+    newfile
+
+[33mcommit b755249d835abe1d148732130143ea2d107bec6f[m
+Author: KNaren <narendra.koya16@outlook.com>
+Date:   Tue Dec 12 18:24:08 2017 +0530
+
+    3rd cmt msg
+
+[33mcommit 8d7b12e7642a2180eb6d1672708841fe40c319c9[m
+Author: KNaren <narendra.koya16@outlook.com>
+Date:   Tue Dec 12 18:15:28 2017 +0530
+
+    3rd modification f33
+
+[33mcommit 83d7e29d8bc1a4da2ea46dbca6a1d6fd21df39cb[m
+Author: narendrakoya <34475773+narendrakoya@users.noreply.github.com>
+Date:   Tue Dec 12 16:26:39 2017 +0530
+
+    Initial commit
